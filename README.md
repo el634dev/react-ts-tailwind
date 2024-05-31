@@ -23,7 +23,7 @@
 > After you have change directories you then run `npm install` in your terminal and you can run `npm run dev` because `npm start` does not work with Vite.
 
 ## Usage
-> Then after setup things you can write your code
+> Then after setup things you can write your code in the src directory/folder inside of the react-boilerplate
 
 ## Project Status
 Project is:  _complete_.

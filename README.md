@@ -1,5 +1,5 @@
 # React-TS-Tailwind Boilerplate 
-> A free to use boilerplate
+> A React, TypeScript and Tailwind CSS boilerplate project that can be used for projects
 
 ## Table of Contents
 * [General Info](#general-information)

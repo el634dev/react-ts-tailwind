@@ -11,6 +11,7 @@
 
 ## General Information
 > This project aims to solve the problem of getting Tailwind CSS to work with TypScript
+> 
 > The purpose of this project to make development more smoother and simpler so the focus is on the project
 
 ## Technologies Used
